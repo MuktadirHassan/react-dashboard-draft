@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { AppShell, Navbar, Text } from "@mantine/core";
+import { AppShell, Text } from "@mantine/core";
 import DashboardHeader from "./Header";
 import { NavbarNested } from "./NavbarNested";
 
